@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mobando7780
-- 👀 I’m interested in ...DevOPS
-- 🌱 I’m currently learning ...Python3, Ansible
-- 💞️ I’m looking to collaborate on ...Python3 projects
+- 👋 Hi, I’m Mariano
+- 👀 I’m interested in ...DevOPS, Devnet, and creativity.
+- 🌱 I’m currently learning ...Python3, Ansible, puppet, Chef, and Restfull API's
+- 💞️ I’m looking to collaborate on ...Python3 projects, and colabarations.
 - 📫 How to reach me ...linuxkid7780@gmail.com
 
 <!---
